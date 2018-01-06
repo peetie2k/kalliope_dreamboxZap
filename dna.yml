@@ -1,0 +1,12 @@
+---
+  name: "dreamboxZap"
+  type: "neuron"
+  author: "https://github.com/peetie2k"
+
+  kalliope_supported_version:
+    - 0.4
+
+  tags:
+    - "dreambox"
+    - "tv"
+    - "zap"
